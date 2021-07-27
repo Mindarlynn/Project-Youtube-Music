@@ -12,7 +12,7 @@
     Version="1.0.0.0" />
 
   <Properties>
-    <DisplayName>ProjectYM (Package)</DisplayName>
+    <DisplayName>Youtube Music</DisplayName>
     <PublisherDisplayName>yegukwon</PublisherDisplayName>
     <Logo>Images\StoreLogo.png</Logo>
   </Properties>
@@ -31,7 +31,7 @@
       Executable="$targetnametoken$.exe"
       EntryPoint="$targetentrypoint$">
       <uap:VisualElements
-        DisplayName="ProjectYM (Package)"
+        DisplayName="Youtube Music"
         Description="ProjectYM (Package)"
         BackgroundColor="transparent"
         Square150x150Logo="Images\Square150x150Logo.png"
